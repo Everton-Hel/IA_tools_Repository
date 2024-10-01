@@ -109,7 +109,7 @@ Repository designed to list IA
 | toolify.ai     | https://toolify.ai            | Automação                          | Grátis          | Biblioteca de ferramentas para automação com IA                          |
 | omnigpt.co     | https://omnigpt.co            | Chatbot, Escrita, Automação        | Grátis          | Ferramenta de IA para geração de conteúdo e chat                         |
 | Jitter         | https://jitter.video          | Vídeo                              | Pago/Grátis     | Criação de vídeos animados curtos com IA                                 |
-|------------------|----------------------------------|--------------------------|-------------|------------------------------------------|
+|------------------|----------------------------------|--------------------|-------------|---------------------|
 | **Hugging Face**  | https://huggingface.co        | Chatbot, Desenvolvimento, Automação  | Grátis/Pago     | Plataforma para modelos de IA, incluindo NLP e aprendizado profundo.                |
 | **Cohere**        | https://cohere.ai             | Escrita, Chatbot, Automação          | Pago            | IA para processamento de linguagem natural e geração de texto.                      |
 | **MidJourney**    | https://midjourney.com        | Imagem                               | Pago            | Geração de arte e imagens realistas a partir de descrições em texto.                |
