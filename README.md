@@ -109,4 +109,34 @@ Repository designed to list IA
 | toolify.ai     | https://toolify.ai            | Automação                          | Grátis          | Biblioteca de ferramentas para automação com IA                          |
 | omnigpt.co     | https://omnigpt.co            | Chatbot, Escrita, Automação        | Grátis          | Ferramenta de IA para geração de conteúdo e chat                         |
 | Jitter         | https://jitter.video          | Vídeo                              | Pago/Grátis     | Criação de vídeos animados curtos com IA                                 |
-
+|------------------|----------------------------------|--------------------------|-------------|------------------------------------------|
+| **Hugging Face**  | https://huggingface.co        | Chatbot, Desenvolvimento, Automação  | Grátis/Pago     | Plataforma para modelos de IA, incluindo NLP e aprendizado profundo.                |
+| **Cohere**        | https://cohere.ai             | Escrita, Chatbot, Automação          | Pago            | IA para processamento de linguagem natural e geração de texto.                      |
+| **MidJourney**    | https://midjourney.com        | Imagem                               | Pago            | Geração de arte e imagens realistas a partir de descrições em texto.                |
+| **Scribe**        | https://scribehow.com         | Automação, Escrita, Apresentação     | Pago/Grátis     | Ferramenta para documentar e automatizar processos passo a passo com IA.            |
+| **Murf AI**       | https://murf.ai               | Texto para Voz                       | Pago            | Geração de voz realista a partir de texto para vídeos, apresentações, e mais.       |
+| **Runway ML**     | https://runwayml.com          | Vídeo, Imagem                        | Pago            | Ferramenta para edição de vídeos e criação de efeitos visuais com IA.               |
+| **Lumen5**        | https://lumen5.com            | Vídeo                                | Pago            | Plataforma de criação automática de vídeos a partir de blogs e textos.              |
+| **Firefly AI**    | https://firefly.adobe.com     | Imagem, Design                       | Pago            | IA da Adobe para criação de imagens e gráficos.                                     |
+| **Tabnine**       | https://www.tabnine.com       | Desenvolvimento, Automação           | Pago/Grátis     | Assistente de IA para autocompletar código em tempo real.                           |
+| **Surfer SEO**    | https://surferseo.com         | SEO, Escrita, Blogging               | Pago            | IA para otimização de conteúdo e SEO com base em análise de páginas e palavras-chave.|
+| **Tonic AI**      | https://tonic.ai              | Desenvolvimento, Automação           | Pago            | Geração de dados sintéticos para desenvolvimento e testes de software.              |
+| **AssemblyAI**    | https://assemblyai.com        | Voz para Texto, Automação            | Pago            | Plataforma de transcrição de áudio e análise de linguagem.                          |
+| **Nova AI**       | https://nova-ai.co            | Vídeo, Automação                     | Pago/Grátis     | Edição automática de vídeos com análise de conteúdo.                                |
+| **Pictory**       | https://pictory.ai            | Vídeo, Escrita                       | Pago            | Criação automática de vídeos a partir de roteiros ou resumos de texto.              |
+| **Sembly AI**     | https://sembly.ai             | Reuniões, Automação                  | Pago/Grátis     | Transcrição e análise de reuniões com IA.                                           |
+| **Facet AI**      | https://facet.ai              | Design, Imagem                       | Pago            | Ferramenta de edição de imagens com IA, focada em retoques e ajustes automáticos.    |
+| **Neural.love**   | https://neural.love           | Imagem, Vídeo                        | Pago/Grátis     | Criação de imagens e vídeos a partir de descrições textuais.                        |
+| **Copy.ai**       | https://copy.ai               | Escrita, Blogging                    | Pago/Grátis     | Geração de conteúdo automatizado para blogs e marketing.                           |
+| **INK Editor**    | https://inkforall.com         | Escrita, SEO                         | Pago/Grátis     | Editor de texto com otimização SEO e escrita assistida por IA.                      |
+| **OpenAI Codex**  | https://openai.com            | Desenvolvimento, Automação           | Pago/Grátis     | IA para geração de código e automação de tarefas de desenvolvimento.               |
+| **Magic Write**   | https://canva.com             | Escrita, Apresentação                | Pago/Grátis     | Ferramenta de IA para geração de textos integrada ao Canva.                         |
+| **Spiky**         | https://spiky.ai              | Automação, Chatbot                   | Grátis          | Assistente de IA para automação de tarefas e fluxos de trabalho.                    |
+| **Mem AI**        | https://mem.ai                | Automação, Reuniões                  | Pago/Grátis     | Ferramenta de IA para organização e automação de anotações e lembretes.             |
+| **Chinchilla AI** | https://deepmind.com/research | Desenvolvimento, Chatbot             | Grátis          | Modelo de linguagem da DeepMind para processamento de texto e conversação.          |
+| **Anyword**       | https://anyword.com           | Escrita, Marketing                   | Pago            | Plataforma de geração de cópias publicitárias com IA para campanhas de marketing.    |
+| **Jina AI**       | https://jina.ai               | Automação, Desenvolvimento           | Pago/Grátis     | Plataforma para criação de aplicativos de IA com foco em buscas e multimídia.       |
+| **Quillbot**      | https://quillbot.com          | Escrita, Blogging                    | Pago/Grátis     | Ferramenta de reescrita de texto e parafraseamento com IA.                         |
+| **Writecream**    | https://writecream.com        | Escrita, Blogging, Marketing         | Pago/Grátis     | IA para geração de conteúdo escrito, emails, e cópias publicitárias.               |
+| **PolyAI**        | https://polyai.com            | Chatbot, Automação                   | Pago            | Assistente de IA para atendimento ao cliente por voz ou chat.                       |
+| **Riku AI**       | https://riku.ai               | Chatbot, Automação, Escrita          | Pago            | Plataforma para criação de assistentes virtuais e modelos de IA personalizados.     |
