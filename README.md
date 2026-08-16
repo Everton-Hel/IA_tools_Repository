@@ -124,6 +124,7 @@ Repository designed to list IA
 | **AssemblyAI**    | https://assemblyai.com        | Voz para Texto, Automação            | Pago            | Plataforma de transcrição de áudio e análise de linguagem.                          |
 | **Nova AI**       | https://nova-ai.co            | Vídeo, Automação                     | Pago/Grátis     | Edição automática de vídeos com análise de conteúdo.                                |
 | **Pictory**       | https://pictory.ai            | Vídeo, Escrita                       | Pago            | Criação automática de vídeos a partir de roteiros ou resumos de texto.              |
+| **videos.social** | https://videos.social         | Vídeo, Escrita                       | Pago/Grátis     | Vídeos faceless editáveis a partir de blogs, PDFs e prompts. 1 crédito = 1 render.   |
 | **Sembly AI**     | https://sembly.ai             | Reuniões, Automação                  | Pago/Grátis     | Transcrição e análise de reuniões com IA.                                           |
 | **Facet AI**      | https://facet.ai              | Design, Imagem                       | Pago            | Ferramenta de edição de imagens com IA, focada em retoques e ajustes automáticos.    |
 | **Neural.love**   | https://neural.love           | Imagem, Vídeo                        | Pago/Grátis     | Criação de imagens e vídeos a partir de descrições textuais.                        |
